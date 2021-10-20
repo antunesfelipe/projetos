@@ -1,11 +1,1 @@
 teste
-
-// HelloWorld.java 
-public  class  HelloWorld  { 
-    public  static  void say ( String message )  { 
-        System . para fora . println ( mensagem ); 
-    }
-    public  static  void sayToPerson ( String message ,  String name )  { 
-        System . para fora . println ( nome +  ","  + mensagem ); 
-    } 
-}
